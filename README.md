@@ -20,3 +20,6 @@ etcd配置为json格式，示例如下：
 
 + path：本地日志文件路径。
 + topic：对应kafka的topic。
+
+
+tips：单机版分支启动后根据配置可直接读取文件内容保存到ES，具体请见stand_alone分支。
